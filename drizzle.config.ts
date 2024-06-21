@@ -9,6 +9,6 @@ export default defineConfig({
     breakpoints:false,
 
     dbCredentials:{
-        url:'postgresql://user-api_owner:l1BUyJPeX9mj@ep-lucky-paper-a1vyntr4-pooler.ap-southeast-1.aws.neon.tech/user-api?sslmode=require',
+        url:'postgresql://neondb_owner:cUkSA4Lwq5Cy@ep-silent-credit-a1y0y7fh-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require',
     }
 });
